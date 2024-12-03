@@ -1,0 +1,32 @@
+@startuml caso_de_uso
+left to right direction
+
+actor Cliente
+actor Administrador
+actor "Sistema de Pago" as SistemaPago
+
+package "Sistema de Compra de Boletos" {
+    usecase "Registrar Servicio" as UC1
+    usecase "Seleccionar Asientos" as UC2
+    usecase "Procesar Compra" as UC3
+    usecase "Consultar Boleto" as UC4
+    usecase "Modificar Boleto" as UC5
+    usecase "Limpiar Selección de Asientos" as UC6
+    usecase "Mostrar Resumen de Compra" as UC7
+    usecase "Guardar Boletos" as UC8
+    usecase "Actualizar Datos del Cliente" as UC9
+}
+
+Cliente --> UC1
+Cliente --> UC2
+Cliente --> UC3
+Cliente --> UC4
+Cliente --> UC5
+Cliente --> UC6
+Cliente --> UC7
+Cliente --> UC8
+SistemaPago --> UC3
+Administrador --> UC1
+Administrador --> UC9
+
+@enduml

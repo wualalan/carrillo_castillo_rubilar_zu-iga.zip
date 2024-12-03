@@ -1,0 +1,28 @@
+@startuml comportamiento
+start
+
+:Seleccionar Asientos;
+if (¿Asientos seleccionados?) then (sí)
+    :Ingresar Datos del Pasajero;
+    if (¿Datos válidos?) then (sí)
+        :Guardar Boleto en JSON;
+        :Mostrar Resumen de Compra;
+        if (¿Confirmar Compra?) then (sí)
+            :Procesar Pago;
+            if (¿Pago Aprobado?) then (sí)
+                :Enviar Confirmación de Boleto;
+            else (no)
+                :Mostrar Mensaje de Error de Pago;
+            endif
+        else (no)
+            :Cancelar Proceso de Compra;
+        endif
+    else (no)
+        :Mostrar Mensaje de Error de Datos;
+    endif
+else (no)
+    :Mostrar Mensaje de Selección de Asientos;
+endif
+
+stop
+@enduml

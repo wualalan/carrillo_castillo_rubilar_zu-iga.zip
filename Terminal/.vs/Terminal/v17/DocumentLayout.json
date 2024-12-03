@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|c:\\users\\jorge\\desktop\\terminal terminado\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|solutionrelative:views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|c:\\users\\jorge\\desktop\\terminal terminado\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|solutionrelative:views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|c:\\users\\jorge\\desktop\\terminal terminado\\clases\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|solutionrelative:clases\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|c:\\users\\jorge\\desktop\\terminal terminado\\clases\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|solutionrelative:clases\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|c:\\users\\jorge\\desktop\\terminal terminado\\clases\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|solutionrelative:clases\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|c:\\users\\jorge\\desktop\\terminal terminado\\clases\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|solutionrelative:clases\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|c:\\users\\jorge\\desktop\\terminal terminado\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|solutionrelative:clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|c:\\users\\jorge\\desktop\\terminal terminado\\clases\\pasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|solutionrelative:clases\\pasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|c:\\users\\jorge\\desktop\\terminal terminado\\clases\\iservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|solutionrelative:clases\\iservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|c:\\users\\jorge\\desktop\\terminal terminado\\clases\\ifactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|solutionrelative:clases\\ifactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|c:\\users\\jorge\\desktop\\terminal terminado\\clases\\icompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|solutionrelative:clases\\icompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|c:\\users\\jorge\\desktop\\terminal terminado\\clases\\iboleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|solutionrelative:clases\\iboleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|c:\\users\\jorge\\desktop\\terminal terminado\\clases\\horario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|solutionrelative:clases\\horario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|c:\\users\\jorge\\desktop\\terminal terminado\\clases\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|solutionrelative:clases\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|c:\\users\\jorge\\desktop\\terminal terminado\\clases\\chofer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|solutionrelative:clases\\chofer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|c:\\users\\jorge\\desktop\\terminal terminado\\clases\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|solutionrelative:clases\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|c:\\users\\jorge\\desktop\\terminal terminado\\clases\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|solutionrelative:clases\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|c:\\users\\jorge\\desktop\\terminal terminado\\clases\\auxiliar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|solutionrelative:clases\\auxiliar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 380,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Asiento.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\Asiento.cs",
+              "RelativeDocumentMoniker": "Clases\\Asiento.cs",
+              "ToolTip": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\Asiento.cs",
+              "RelativeToolTip": "Clases\\Asiento.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:23:32.421Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\Persona.cs",
+              "RelativeDocumentMoniker": "Clases\\Persona.cs",
+              "ToolTip": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\Persona.cs",
+              "RelativeToolTip": "Clases\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:17:18.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\Servicio.cs",
+              "RelativeDocumentMoniker": "Clases\\Servicio.cs",
+              "ToolTip": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\Servicio.cs",
+              "RelativeToolTip": "Clases\\Servicio.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T00:18:05.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\Carrito.cs",
+              "RelativeDocumentMoniker": "Clases\\Carrito.cs",
+              "ToolTip": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\Carrito.cs",
+              "RelativeToolTip": "Clases\\Carrito.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwEwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:20:21.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Views\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Views\\MainWindow.axaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.axaml.cs",
+              "ViewState": "AgIAAFYBAAAAAAAAAADwv9UBAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Views",
+              "WhenOpened": "2024-11-25T19:36:47.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pasajero.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\Pasajero.cs",
+              "RelativeDocumentMoniker": "Clases\\Pasajero.cs",
+              "ToolTip": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\Pasajero.cs",
+              "RelativeToolTip": "Clases\\Pasajero.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:15:26.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "iServicio.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\iServicio.cs",
+              "RelativeDocumentMoniker": "Clases\\iServicio.cs",
+              "ToolTip": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\iServicio.cs",
+              "RelativeToolTip": "Clases\\iServicio.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T00:09:04.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Views\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.axaml",
+              "ToolTip": "Views/MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "OverriddenGroupName": "Views",
+              "OverriddenToolTip": "Views/MainWindow.axaml",
+              "WhenOpened": "2024-11-25T18:17:07.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\Compra.cs",
+              "RelativeDocumentMoniker": "Clases\\Compra.cs",
+              "ToolTip": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\Compra.cs",
+              "RelativeToolTip": "Clases\\Compra.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBoAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:57:16.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "iBoleto.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\iBoleto.cs",
+              "RelativeDocumentMoniker": "Clases\\iBoleto.cs",
+              "ToolTip": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\iBoleto.cs",
+              "RelativeToolTip": "Clases\\iBoleto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:57:35.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "iFactura.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\iFactura.cs",
+              "RelativeDocumentMoniker": "Clases\\iFactura.cs",
+              "ToolTip": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\iFactura.cs",
+              "RelativeToolTip": "Clases\\iFactura.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:57:46.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Horario.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\Horario.cs",
+              "RelativeDocumentMoniker": "Clases\\Horario.cs",
+              "ToolTip": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\Horario.cs",
+              "RelativeToolTip": "Clases\\Horario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T00:17:47.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Chofer.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\Chofer.cs",
+              "RelativeDocumentMoniker": "Clases\\Chofer.cs",
+              "ToolTip": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\Chofer.cs",
+              "RelativeToolTip": "Clases\\Chofer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:57:11.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Boleto.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\Boleto.cs",
+              "RelativeDocumentMoniker": "Clases\\Boleto.cs",
+              "ToolTip": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\Boleto.cs",
+              "RelativeToolTip": "Clases\\Boleto.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:17:54.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Auxiliar.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\Auxiliar.cs",
+              "RelativeDocumentMoniker": "Clases\\Auxiliar.cs",
+              "ToolTip": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\Auxiliar.cs",
+              "RelativeToolTip": "Clases\\Auxiliar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:23:38.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "iCompra.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\iCompra.cs",
+              "RelativeDocumentMoniker": "Clases\\iCompra.cs",
+              "ToolTip": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\iCompra.cs",
+              "RelativeToolTip": "Clases\\iCompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T00:09:12.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\Factura.cs",
+              "RelativeDocumentMoniker": "Clases\\Factura.cs",
+              "ToolTip": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\Factura.cs",
+              "RelativeToolTip": "Clases\\Factura.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAIwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:23:36.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\Bus.cs",
+              "RelativeDocumentMoniker": "Clases\\Bus.cs",
+              "ToolTip": "C:\\Users\\jorge\\Desktop\\Terminal terminado\\Clases\\Bus.cs",
+              "RelativeToolTip": "Clases\\Bus.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA4wCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:36:37.549Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

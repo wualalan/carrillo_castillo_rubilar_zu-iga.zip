@@ -1,0 +1,1041 @@
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Terminal.exe
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Terminal.deps.json
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Terminal.runtimeconfig.json
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Terminal.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Terminal.pdb
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Avalonia.Vulkan.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Avalonia.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\basti\source\repos\Terminal\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\basti\source\repos\Terminal\obj\Debug\net8.0\Terminal.csproj.AssemblyReference.cache
+C:\Users\basti\source\repos\Terminal\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\basti\source\repos\Terminal\obj\Debug\net8.0\Avalonia\resources
+C:\Users\basti\source\repos\Terminal\obj\Debug\net8.0\Terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basti\source\repos\Terminal\obj\Debug\net8.0\Terminal.AssemblyInfoInputs.cache
+C:\Users\basti\source\repos\Terminal\obj\Debug\net8.0\Terminal.AssemblyInfo.cs
+C:\Users\basti\source\repos\Terminal\obj\Debug\net8.0\Terminal.csproj.CoreCompileInputs.cache
+C:\Users\basti\source\repos\Terminal\obj\Debug\net8.0\Terminal.sourcelink.json
+C:\Users\basti\source\repos\Terminal\obj\Debug\net8.0\Avalonia\Terminal.dll
+C:\Users\basti\source\repos\Terminal\obj\Debug\net8.0\Avalonia\Terminal.pdb
+C:\Users\basti\source\repos\Terminal\obj\Debug\net8.0\refint\Avalonia\Terminal.dll
+C:\Users\basti\source\repos\Terminal\obj\Debug\net8.0\Terminal.csproj.Up2Date
+C:\Users\basti\source\repos\Terminal\obj\Debug\net8.0\Terminal.genruntimeconfig.cache
+C:\Users\basti\source\repos\Terminal\obj\Debug\net8.0\ref\Terminal.dll
+C:\Users\pc0706\Downloads\Terminal\obj\Debug\net8.0\Terminal.csproj.AssemblyReference.cache
+C:\Users\pc0706\Downloads\Terminal\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\pc0706\Downloads\Terminal\obj\Debug\net8.0\Avalonia\resources
+C:\Users\pc0706\Downloads\Terminal\obj\Debug\net8.0\Terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc0706\Downloads\Terminal\obj\Debug\net8.0\Terminal.AssemblyInfoInputs.cache
+C:\Users\pc0706\Downloads\Terminal\obj\Debug\net8.0\Terminal.AssemblyInfo.cs
+C:\Users\pc0706\Downloads\Terminal\obj\Debug\net8.0\Terminal.csproj.CoreCompileInputs.cache
+C:\Users\pc0706\Downloads\Terminal\obj\Debug\net8.0\Avalonia\Terminal.dll
+C:\Users\pc0706\Downloads\Terminal\obj\Debug\net8.0\Avalonia\Terminal.pdb
+C:\Users\pc0706\Downloads\Terminal\obj\Debug\net8.0\refint\Avalonia\Terminal.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Terminal.exe
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Terminal.deps.json
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Terminal.runtimeconfig.json
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Terminal.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Terminal.pdb
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Avalonia.Vulkan.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Avalonia.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\pc0706\Downloads\Terminal\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\pc0706\Downloads\Terminal\obj\Debug\net8.0\Terminal.csproj.Up2Date
+C:\Users\pc0706\Downloads\Terminal\obj\Debug\net8.0\Terminal.genruntimeconfig.cache
+C:\Users\pc0706\Downloads\Terminal\obj\Debug\net8.0\ref\Terminal.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Terminal.exe
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Terminal.deps.json
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Terminal.runtimeconfig.json
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Terminal.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Terminal.pdb
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Avalonia.Vulkan.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Avalonia.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\obj\Debug\net8.0\Terminal.csproj.AssemblyReference.cache
+C:\Users\deto\Desktop\Proyecto\Terminal\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\deto\Desktop\Proyecto\Terminal\obj\Debug\net8.0\Avalonia\resources
+C:\Users\deto\Desktop\Proyecto\Terminal\obj\Debug\net8.0\Terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deto\Desktop\Proyecto\Terminal\obj\Debug\net8.0\Terminal.AssemblyInfoInputs.cache
+C:\Users\deto\Desktop\Proyecto\Terminal\obj\Debug\net8.0\Terminal.AssemblyInfo.cs
+C:\Users\deto\Desktop\Proyecto\Terminal\obj\Debug\net8.0\Terminal.csproj.CoreCompileInputs.cache
+C:\Users\deto\Desktop\Proyecto\Terminal\obj\Debug\net8.0\Avalonia\Terminal.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\obj\Debug\net8.0\Avalonia\Terminal.pdb
+C:\Users\deto\Desktop\Proyecto\Terminal\obj\Debug\net8.0\refint\Avalonia\Terminal.dll
+C:\Users\deto\Desktop\Proyecto\Terminal\obj\Debug\net8.0\Terminal.csproj.Up2Date
+C:\Users\deto\Desktop\Proyecto\Terminal\obj\Debug\net8.0\Terminal.genruntimeconfig.cache
+C:\Users\deto\Desktop\Proyecto\Terminal\obj\Debug\net8.0\ref\Terminal.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\obj\Debug\net8.0\Terminal.csproj.AssemblyReference.cache
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\obj\Debug\net8.0\Avalonia\resources
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\obj\Debug\net8.0\Terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\obj\Debug\net8.0\Terminal.AssemblyInfoInputs.cache
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\obj\Debug\net8.0\Terminal.AssemblyInfo.cs
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\obj\Debug\net8.0\Terminal.csproj.CoreCompileInputs.cache
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\obj\Debug\net8.0\Terminal.sourcelink.json
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Terminal.exe
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Terminal.deps.json
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Terminal.runtimeconfig.json
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Terminal.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Terminal.pdb
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Avalonia.Vulkan.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Avalonia.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\obj\Debug\net8.0\Avalonia\Terminal.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\obj\Debug\net8.0\Avalonia\Terminal.pdb
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\obj\Debug\net8.0\refint\Avalonia\Terminal.dll
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\obj\Debug\net8.0\Terminal.csproj.Up2Date
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\obj\Debug\net8.0\Terminal.genruntimeconfig.cache
+C:\Users\basti\Downloads\Terminal(ULTIMO)\Terminal\obj\Debug\net8.0\ref\Terminal.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Terminal.exe
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Terminal.deps.json
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Terminal.runtimeconfig.json
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Terminal.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Terminal.pdb
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Avalonia.Vulkan.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Avalonia.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\obj\Debug\net8.0\Terminal.csproj.AssemblyReference.cache
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\obj\Debug\net8.0\Avalonia\resources
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\obj\Debug\net8.0\Terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\obj\Debug\net8.0\Terminal.AssemblyInfoInputs.cache
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\obj\Debug\net8.0\Terminal.AssemblyInfo.cs
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\obj\Debug\net8.0\Terminal.csproj.CoreCompileInputs.cache
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\obj\Debug\net8.0\Avalonia\Terminal.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\obj\Debug\net8.0\Avalonia\Terminal.pdb
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\obj\Debug\net8.0\refint\Avalonia\Terminal.dll
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\obj\Debug\net8.0\Terminal.csproj.Up2Date
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\obj\Debug\net8.0\Terminal.genruntimeconfig.cache
+C:\Users\deto\Desktop\Terminal(ACT 15-11-2024)\Terminal\obj\Debug\net8.0\ref\Terminal.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Terminal.exe
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Terminal.deps.json
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Terminal.runtimeconfig.json
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Terminal.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Terminal.pdb
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Avalonia.Vulkan.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Avalonia.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\obj\Debug\net8.0\Terminal.csproj.AssemblyReference.cache
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\obj\Debug\net8.0\Avalonia\resources
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\obj\Debug\net8.0\Terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\obj\Debug\net8.0\Terminal.AssemblyInfoInputs.cache
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\obj\Debug\net8.0\Terminal.AssemblyInfo.cs
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\obj\Debug\net8.0\Terminal.csproj.CoreCompileInputs.cache
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\obj\Debug\net8.0\Terminal.sourcelink.json
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\obj\Debug\net8.0\Avalonia\Terminal.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\obj\Debug\net8.0\Avalonia\Terminal.pdb
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\obj\Debug\net8.0\refint\Avalonia\Terminal.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\obj\Debug\net8.0\Terminal.csproj.Up2Date
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\obj\Debug\net8.0\Terminal.genruntimeconfig.cache
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\obj\Debug\net8.0\ref\Terminal.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Terminal.exe
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Terminal.deps.json
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Terminal.runtimeconfig.json
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Terminal.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Terminal.pdb
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Vulkan.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Avalonia.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\obj\Debug\net8.0\Terminal.csproj.AssemblyReference.cache
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\obj\Debug\net8.0\Avalonia\resources
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\obj\Debug\net8.0\Terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\obj\Debug\net8.0\Terminal.AssemblyInfoInputs.cache
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\obj\Debug\net8.0\Terminal.AssemblyInfo.cs
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\obj\Debug\net8.0\Terminal.csproj.CoreCompileInputs.cache
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\obj\Debug\net8.0\Terminal.sourcelink.json
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\obj\Debug\net8.0\Avalonia\Terminal.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\obj\Debug\net8.0\Avalonia\Terminal.pdb
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\obj\Debug\net8.0\refint\Avalonia\Terminal.dll
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\obj\Debug\net8.0\Terminal.csproj.Up2Date
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\obj\Debug\net8.0\Terminal.genruntimeconfig.cache
+C:\Users\basti\Downloads\Terminal(TRY CACTH IMPLEMENTADO)\Terminal casi listo\obj\Debug\net8.0\ref\Terminal.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Terminal.exe
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Terminal.deps.json
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Terminal.runtimeconfig.json
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Terminal.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Terminal.pdb
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Avalonia.Vulkan.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Avalonia.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\deto\Desktop\Terminal casi listo\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\deto\Desktop\Terminal casi listo\obj\Debug\net8.0\Terminal.csproj.AssemblyReference.cache
+C:\Users\deto\Desktop\Terminal casi listo\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\deto\Desktop\Terminal casi listo\obj\Debug\net8.0\Avalonia\resources
+C:\Users\deto\Desktop\Terminal casi listo\obj\Debug\net8.0\Terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deto\Desktop\Terminal casi listo\obj\Debug\net8.0\Terminal.AssemblyInfoInputs.cache
+C:\Users\deto\Desktop\Terminal casi listo\obj\Debug\net8.0\Terminal.AssemblyInfo.cs
+C:\Users\deto\Desktop\Terminal casi listo\obj\Debug\net8.0\Terminal.csproj.CoreCompileInputs.cache
+C:\Users\deto\Desktop\Terminal casi listo\obj\Debug\net8.0\Avalonia\Terminal.dll
+C:\Users\deto\Desktop\Terminal casi listo\obj\Debug\net8.0\Avalonia\Terminal.pdb
+C:\Users\deto\Desktop\Terminal casi listo\obj\Debug\net8.0\refint\Avalonia\Terminal.dll
+C:\Users\deto\Desktop\Terminal casi listo\obj\Debug\net8.0\Terminal.csproj.Up2Date
+C:\Users\deto\Desktop\Terminal casi listo\obj\Debug\net8.0\Terminal.genruntimeconfig.cache
+C:\Users\deto\Desktop\Terminal casi listo\obj\Debug\net8.0\ref\Terminal.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Terminal.exe
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Terminal.deps.json
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Terminal.runtimeconfig.json
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Terminal.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Terminal.pdb
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Avalonia.Vulkan.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Avalonia.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\obj\Debug\net8.0\Terminal.csproj.AssemblyReference.cache
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\obj\Debug\net8.0\Avalonia\resources
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\obj\Debug\net8.0\Terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\obj\Debug\net8.0\Terminal.AssemblyInfoInputs.cache
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\obj\Debug\net8.0\Terminal.AssemblyInfo.cs
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\obj\Debug\net8.0\Terminal.csproj.CoreCompileInputs.cache
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\obj\Debug\net8.0\Terminal.sourcelink.json
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\obj\Debug\net8.0\Avalonia\Terminal.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\obj\Debug\net8.0\Avalonia\Terminal.pdb
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\obj\Debug\net8.0\refint\Avalonia\Terminal.dll
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\obj\Debug\net8.0\Terminal.csproj.Up2Date
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\obj\Debug\net8.0\Terminal.genruntimeconfig.cache
+C:\Users\basti\Downloads\Terminal diseño cambiado\Terminal casi listo\obj\Debug\net8.0\ref\Terminal.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Terminal.exe
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Terminal.deps.json
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Terminal.runtimeconfig.json
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Terminal.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Terminal.pdb
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Avalonia.Vulkan.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Avalonia.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\deto\Downloads\Terminal casi listo\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\deto\Downloads\Terminal casi listo\obj\Debug\net8.0\Terminal.csproj.AssemblyReference.cache
+C:\Users\deto\Downloads\Terminal casi listo\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\deto\Downloads\Terminal casi listo\obj\Debug\net8.0\Avalonia\resources
+C:\Users\deto\Downloads\Terminal casi listo\obj\Debug\net8.0\Terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deto\Downloads\Terminal casi listo\obj\Debug\net8.0\Terminal.AssemblyInfoInputs.cache
+C:\Users\deto\Downloads\Terminal casi listo\obj\Debug\net8.0\Terminal.AssemblyInfo.cs
+C:\Users\deto\Downloads\Terminal casi listo\obj\Debug\net8.0\Terminal.csproj.CoreCompileInputs.cache
+C:\Users\deto\Downloads\Terminal casi listo\obj\Debug\net8.0\Avalonia\Terminal.dll
+C:\Users\deto\Downloads\Terminal casi listo\obj\Debug\net8.0\Avalonia\Terminal.pdb
+C:\Users\deto\Downloads\Terminal casi listo\obj\Debug\net8.0\refint\Avalonia\Terminal.dll
+C:\Users\deto\Downloads\Terminal casi listo\obj\Debug\net8.0\Terminal.csproj.Up2Date
+C:\Users\deto\Downloads\Terminal casi listo\obj\Debug\net8.0\Terminal.genruntimeconfig.cache
+C:\Users\deto\Downloads\Terminal casi listo\obj\Debug\net8.0\ref\Terminal.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Terminal.exe
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Terminal.deps.json
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Terminal.runtimeconfig.json
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Terminal.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Terminal.pdb
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Vulkan.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\Terminal.csproj.AssemblyReference.cache
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\Avalonia\resources
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\Terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\Terminal.AssemblyInfoInputs.cache
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\Terminal.AssemblyInfo.cs
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\Terminal.csproj.CoreCompileInputs.cache
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\Avalonia\Terminal.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\Avalonia\Terminal.pdb
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\refint\Avalonia\Terminal.dll
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\Terminal.csproj.Up2Date
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\Terminal.genruntimeconfig.cache
+C:\Users\matia\Downloads\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\ref\Terminal.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Terminal.exe
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Terminal.deps.json
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Terminal.runtimeconfig.json
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Terminal.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Terminal.pdb
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Vulkan.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\Terminal.csproj.AssemblyReference.cache
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\Avalonia\resources
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\Terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\Terminal.AssemblyInfoInputs.cache
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\Terminal.AssemblyInfo.cs
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\Terminal.csproj.CoreCompileInputs.cache
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\Terminal.sourcelink.json
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\Avalonia\Terminal.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\Avalonia\Terminal.pdb
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\refint\Avalonia\Terminal.dll
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\Terminal.csproj.Up2Date
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\Terminal.genruntimeconfig.cache
+C:\Users\basti\Downloads\Terminal (FINAL FINAL DEFINITIVO)\Terminal (FINAL FINAL)\Terminal casi listo\obj\Debug\net8.0\ref\Terminal.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Terminal.exe
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Terminal.deps.json
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Terminal.runtimeconfig.json
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Terminal.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Terminal.pdb
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Avalonia.Vulkan.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Avalonia.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\obj\Debug\net8.0\Terminal.csproj.AssemblyReference.cache
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\obj\Debug\net8.0\Avalonia\resources
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\obj\Debug\net8.0\Terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\obj\Debug\net8.0\Terminal.AssemblyInfoInputs.cache
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\obj\Debug\net8.0\Terminal.AssemblyInfo.cs
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\obj\Debug\net8.0\Terminal.csproj.CoreCompileInputs.cache
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\obj\Debug\net8.0\Avalonia\Terminal.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\obj\Debug\net8.0\Avalonia\Terminal.pdb
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\obj\Debug\net8.0\refint\Avalonia\Terminal.dll
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\obj\Debug\net8.0\Terminal.csproj.Up2Date
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\obj\Debug\net8.0\Terminal.genruntimeconfig.cache
+C:\Users\wuala\Downloads\Terminal terminado\Terminal terminado\obj\Debug\net8.0\ref\Terminal.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Terminal.exe
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Terminal.deps.json
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Terminal.runtimeconfig.json
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Terminal.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Terminal.pdb
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Avalonia.Vulkan.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Avalonia.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\deto\Downloads\Terminal terminado\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\deto\Downloads\Terminal terminado\obj\Debug\net8.0\Terminal.csproj.AssemblyReference.cache
+C:\Users\deto\Downloads\Terminal terminado\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\deto\Downloads\Terminal terminado\obj\Debug\net8.0\Avalonia\resources
+C:\Users\deto\Downloads\Terminal terminado\obj\Debug\net8.0\Terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deto\Downloads\Terminal terminado\obj\Debug\net8.0\Terminal.AssemblyInfoInputs.cache
+C:\Users\deto\Downloads\Terminal terminado\obj\Debug\net8.0\Terminal.AssemblyInfo.cs
+C:\Users\deto\Downloads\Terminal terminado\obj\Debug\net8.0\Terminal.csproj.CoreCompileInputs.cache
+C:\Users\deto\Downloads\Terminal terminado\obj\Debug\net8.0\Avalonia\Terminal.dll
+C:\Users\deto\Downloads\Terminal terminado\obj\Debug\net8.0\Avalonia\Terminal.pdb
+C:\Users\deto\Downloads\Terminal terminado\obj\Debug\net8.0\refint\Avalonia\Terminal.dll
+C:\Users\deto\Downloads\Terminal terminado\obj\Debug\net8.0\Terminal.csproj.Up2Date
+C:\Users\deto\Downloads\Terminal terminado\obj\Debug\net8.0\Terminal.genruntimeconfig.cache
+C:\Users\deto\Downloads\Terminal terminado\obj\Debug\net8.0\ref\Terminal.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Terminal.exe
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Terminal.deps.json
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Terminal.runtimeconfig.json
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Terminal.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Terminal.pdb
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Avalonia.Vulkan.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Avalonia.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\jorge\Desktop\Terminal terminado\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\jorge\Desktop\Terminal terminado\obj\Debug\net8.0\Terminal.csproj.AssemblyReference.cache
+C:\Users\jorge\Desktop\Terminal terminado\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\jorge\Desktop\Terminal terminado\obj\Debug\net8.0\Avalonia\resources
+C:\Users\jorge\Desktop\Terminal terminado\obj\Debug\net8.0\Terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Desktop\Terminal terminado\obj\Debug\net8.0\Terminal.AssemblyInfoInputs.cache
+C:\Users\jorge\Desktop\Terminal terminado\obj\Debug\net8.0\Terminal.AssemblyInfo.cs
+C:\Users\jorge\Desktop\Terminal terminado\obj\Debug\net8.0\Terminal.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\Terminal terminado\obj\Debug\net8.0\Avalonia\Terminal.dll
+C:\Users\jorge\Desktop\Terminal terminado\obj\Debug\net8.0\Avalonia\Terminal.pdb
+C:\Users\jorge\Desktop\Terminal terminado\obj\Debug\net8.0\refint\Avalonia\Terminal.dll
+C:\Users\jorge\Desktop\Terminal terminado\obj\Debug\net8.0\Terminal.csproj.Up2Date
+C:\Users\jorge\Desktop\Terminal terminado\obj\Debug\net8.0\Terminal.genruntimeconfig.cache
+C:\Users\jorge\Desktop\Terminal terminado\obj\Debug\net8.0\ref\Terminal.dll

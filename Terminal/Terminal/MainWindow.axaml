@@ -1,0 +1,146 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="1000" d:DesignHeight="550"
+        x:Class="Terminal.MainWindow"
+        Title="Terminal"
+		Background="LightSkyBlue">
+
+
+	<TabControl  HorizontalAlignment="Center">
+
+		<TabControl.Styles>
+			<Style Selector="TabItem">
+				<Setter Property="FontSize" Value="20"/>
+				<!-- Cambia el tamaño de la fuente -->
+				<Setter Property="FontWeight" Value="Bold"/>
+				<!-- Opcional: Hace el texto más grueso -->
+				<Setter Property="Padding" Value="10"/>
+				<!-- Opcional: Agrega espacio interno -->
+			</Style>
+		</TabControl.Styles>
+
+		<TabItem Header="Compra" >
+			<StackPanel>
+				
+				<StackPanel Name="pag1" Orientation="Vertical"  HorizontalAlignment="Center">
+					
+					<StackPanel Orientation="Horizontal" HorizontalAlignment="Center"  >
+						
+						<StackPanel Orientation="Vertical" HorizontalAlignment="Center"  VerticalAlignment="Center" Spacing="0" Margin="10">
+							<TextBlock Text="Solo ida" Foreground="Black" HorizontalAlignment="Center" FontSize="16"/>
+							<RadioButton  GroupName="Viaje" Foreground="Black"/>
+						</StackPanel>
+
+				
+						<StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center"  Margin="20">
+							<TextBlock Text="Ida y vuelta" Foreground="Black" HorizontalAlignment="Center" FontSize="16"/>
+							<RadioButton  Name="botonVuelta" GroupName="Viaje" Checked="RadioButton_Checked" Unchecked="RadioButton_Unchecked" Foreground="Black"/>
+						</StackPanel>
+						
+					</StackPanel>
+
+
+					<StackPanel >
+
+						<TextBlock TextAlignment="Center" Text="Origen" Margin="10"></TextBlock>
+						<ComboBox  Name="comboBoxOrigen" Width="200" Height="30" HorizontalAlignment="Center" VerticalAlignment="Top" SelectedIndex="0">
+
+							<ComboBoxItem Content="Seleccione una opción" IsSelected="True" IsEnabled="True" Foreground="Gray"/>
+							<ComboBoxItem>Concepcion</ComboBoxItem>
+							<ComboBoxItem>Los Angeles</ComboBoxItem>
+						</ComboBox>
+					
+						<TextBlock TextAlignment="Center"  Text="Destino" Foreground ="Black" Margin ="10" ></TextBlock>
+						<ComboBox Name="comboBoxDestino" Width="200" Height="30" HorizontalAlignment="Center" VerticalAlignment="Top" SelectedIndex="0">
+							<ComboBoxItem Content="Seleccione una opción" IsSelected="True" IsEnabled="True" Foreground="Gray"/>
+							<ComboBoxItem>Concepcion</ComboBoxItem>
+							<ComboBoxItem>Los Angeles</ComboBoxItem>
+							<ComboBoxItem>Cabrero</ComboBoxItem>
+						</ComboBox>
+
+						<TextBlock TextAlignment="Center" Text="Fecha ida" Foreground ="Black" Margin="10" ></TextBlock>
+						<CalendarDatePicker Width="200" Height="30" HorizontalAlignment="Center" VerticalAlignment="Top"></CalendarDatePicker>
+						<StackPanel Name="elegirVuelta" IsVisible="False" >
+							<TextBlock TextAlignment="Center"  Text="Fecha vuelta" Foreground ="Black" Margin="10"></TextBlock>
+							<CalendarDatePicker Width="200" Height="30" HorizontalAlignment="Center" VerticalAlignment="Top"></CalendarDatePicker>
+						</StackPanel>
+						<Grid Margin="10" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+							<Button Click="Button_Confirmar" Background="Green" Content="Confirmar" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="10"/>
+						</Grid>
+						
+
+
+					</StackPanel>
+
+				</StackPanel>
+
+				<StackPanel Name ="pag3" Orientation="Vertical"  HorizontalAlignment="Center" IsVisible ="False">
+
+					<TextBlock TextAlignment="Center" Text="Nombre" Margin="10"></TextBlock>
+					<TextBox Name="TextBoxNombre" Width="200" Height="30" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+					<TextBlock TextAlignment="Center" Text="Rut" Margin="10"></TextBlock>
+					<TextBox Name="TextBoxRutCompra" Width="200" Height="30" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+					<TextBlock TextAlignment="Center" Text="Tipo Pasajero" Margin="10"></TextBlock>
+					<StackPanel Orientation="Vertical" HorizontalAlignment="Center"  VerticalAlignment="Center" Spacing="0" Margin="10">
+						<StackPanel  Orientation="Horizontal">
+							<TextBlock Text="Normal" Foreground="Black" HorizontalAlignment="Center" FontSize="16"/>
+							<RadioButton  GroupName="Tipo" Foreground="Black"/>
+							<TextBlock Text="Estudiante" Foreground="Black" HorizontalAlignment="Center" FontSize="16"/>
+							<RadioButton  GroupName="Tipo" Foreground="Black"/>
+							<TextBlock Text="Adulto Mayor" Foreground="Black" HorizontalAlignment="Center" FontSize="16"/>
+							<RadioButton  GroupName="Tipo" Foreground="Black"/>
+						</StackPanel>
+					</StackPanel>
+
+					<TextBlock TextAlignment="Center" Text="Telefono" Margin="10"></TextBlock>
+					<TextBox Name="TextBoxTelefono" Width="200" Height="30" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+					<TextBlock TextAlignment="Center" Text="Email" Margin="10"></TextBlock>
+					<TextBox Name="TextBoxEmail" Width="200" Height="30" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+
+					<Button Background="Green" Content="Buscar" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="10"></Button>
+
+				</StackPanel>
+
+			</StackPanel>
+
+			
+
+			
+			
+			
+			
+		</TabItem>
+		<TabItem Header="Consulta">
+			<StackPanel Orientation="Vertical"  HorizontalAlignment="Center" >
+				
+				
+				<TextBlock TextAlignment="Center" Text="Rut" Margin="10"></TextBlock>
+				<TextBox Name="TextBoxRutConsulta" Width="200" Height="30" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+				
+				<Button Background="Green" Content="Pagar" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="10"></Button>
+				
+			</StackPanel>
+
+			
+			<!--Mostrar los datos de la boleta y elegir si modificar o reembolsar-->
+			
+			
+			
+			
+			
+			
+
+			
+			
+			
+		</TabItem>
+
+
+
+
+	</TabControl>
+
+	
+</Window>

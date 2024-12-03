@@ -1,0 +1,403 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="600" d:DesignHeight="400"
+        x:Class="Terminal.MainWindow"
+        Title="Terminal"
+		Background="#F5F5F5">
+
+	<!--<Viewbox Stretch="Uniform">-->
+<Grid>
+	
+		<Grid.RowDefinitions>
+			<RowDefinition Height="Auto" />
+			<!-- Encabezado -->
+			<RowDefinition Height="*" />
+			<!-- Contenido -->
+
+		</Grid.RowDefinitions>
+
+
+
+		<StackPanel Grid.Row="0" HorizontalAlignment="Center" Margin="0,10">
+
+			<Image Source="avares://Terminal/Assets/bus-icon.png" Width="60" Height="60" HorizontalAlignment="Center"
+				VerticalAlignment="Center" />
+
+			<!-- Encabezado principal -->
+			<TextBlock Text="Sistema de Compra de Pasajes" FontSize="25" FontWeight="Bold" Foreground="#2D2D2D" HorizontalAlignment="Center" Margin="0,15,0,5" TextAlignment="Center" />
+
+		</StackPanel>
+
+
+		<TabControl Grid.Row="1" Margin="10" Background="White" BorderBrush="#D3D3D3" BorderThickness="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" FontSize="20">
+
+			<!-- Imagen de fondo -->
+			<TabControl.Background>
+				<ImageBrush Source="avares://Terminal/Assets/fondo.jpg" Stretch="UniformToFill" Opacity="0.14"/>
+			</TabControl.Background>
+			<TabItem Header="Compra" >
+
+
+				<StackPanel   HorizontalAlignment="Center" VerticalAlignment="Center" Spacing="15">
+
+					<StackPanel Name="pag1" Orientation="Vertical"  HorizontalAlignment="Center">
+						<TextBlock Text="Seleccione datos de la compra" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" />
+						<StackPanel Orientation="Horizontal" HorizontalAlignment="Center"  >
+
+							<StackPanel Orientation="Horizontal" HorizontalAlignment="Center"  VerticalAlignment="Center" Spacing="10" Margin="10" >
+								<RadioButton  Name="botonIda" GroupName="Viaje" Content="Ida" Foreground="Black" Checked="RadioButton_Unchecked" FontSize="16" />
+								<RadioButton  Name="botonVuelta" GroupName="Viaje" Content="Ida y Vuelta" Checked="RadioButton_Checked" Foreground="Black" FontSize="16"/>
+							</StackPanel>
+
+						</StackPanel>
+
+
+						<StackPanel >
+
+							<TextBlock TextAlignment="Center" Text="Origen" Margin="10" FontSize="16"></TextBlock>
+							<ComboBox Name="comboBoxOrigen" Width="300" Height="30" BorderBrush="#3498db" Background="White" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center" >
+
+
+								<ComboBoxItem>Concepcion</ComboBoxItem>
+								<ComboBoxItem>Los Angeles</ComboBoxItem>
+
+							</ComboBox>
+
+							<TextBlock TextAlignment="Center"  Text="Destino" Foreground ="Black" Margin ="10" FontSize="16" ></TextBlock>
+							<ComboBox Name="comboBoxDestino" Width="300" Height="30" BorderBrush="#3498db" Background="White" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center">
+
+								<ComboBoxItem>Concepcion</ComboBoxItem>
+								<ComboBoxItem>Los Angeles</ComboBoxItem>
+
+							</ComboBox>
+
+							<TextBlock TextAlignment="Center" Text="Fecha ida" Foreground ="Black" Margin="10" FontSize="16" ></TextBlock>
+							<CalendarDatePicker Name="datepicker" Width="300" Height="30" HorizontalAlignment="Center" VerticalAlignment="Center" BorderBrush="#3498db" FontSize="16" Background="White"></CalendarDatePicker>
+
+							<StackPanel Name="elegirVuelta" IsVisible="False" >
+								<TextBlock TextAlignment="Center"  Text="Fecha vuelta" Foreground ="Black" Margin="10" FontSize="16"></TextBlock>
+								<CalendarDatePicker  Width="300" Height="30" HorizontalAlignment="Center" VerticalAlignment="Center" BorderBrush="#3498db" FontSize="16" Background="White"></CalendarDatePicker>
+							</StackPanel>
+
+							<Button Click="Button_Itinerarios" Width="160" Height="30" Background="#0078D7" Content="Buscar Itinerarios" HorizontalContentAlignment="Center" Foreground="White" HorizontalAlignment="Center"  Margin="30" FontSize="16"/>
+
+
+							<!-- TextBlock para mostrar el mensaje de error -->
+							<TextBlock x:Name="MessageTextBlock" HorizontalAlignment="Center" TextAlignment="Center" Foreground="Red"/>
+
+
+
+						</StackPanel>
+
+					</StackPanel>
+
+
+					<StackPanel Name="pag2" Orientation="Vertical" HorizontalAlignment="Center" IsVisible="False">
+
+						<TextBlock Text="Seleccione servicio de ida:" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" />
+
+						<!-- Grid para organizar los títulos en columnas -->
+						<StackPanel  Margin="15">
+							<ScrollViewer>
+								<Grid Name="busServiceGrid" HorizontalAlignment="Stretch" >
+									<Grid.ColumnDefinitions>
+										<ColumnDefinition Width="Auto" />
+										<ColumnDefinition Width="2*" />
+										<ColumnDefinition Width="2*" />
+										<ColumnDefinition Width="2*" />
+										<ColumnDefinition Width="Auto" />
+									</Grid.ColumnDefinitions>
+
+								</Grid>
+							</ScrollViewer>
+						</StackPanel>
+
+
+						<!-- Botón en la parte inferior -->
+
+						<Button Content="Volver" HorizontalAlignment="Left" Margin="10"  Height="30" Click="Button_Volver21" FontSize="16" />
+					</StackPanel>
+
+					<StackPanel Name ="pag3" Margin="10"  HorizontalAlignment="Center" VerticalAlignment="Center" IsVisible="False">
+						<!-- Título opcional -->
+						<TextBlock Text="Mapa de Asientos" FontWeight="Bold" FontSize="20" HorizontalAlignment="Center" Margin="0,0,0,10"/>
+
+						<!-- Cuadrícula para los asientos -->
+						<Grid Name="AsientosGrid">
+							<!-- Definir 6 columnas: 2 para los asientos, 1 para el espacio, y 2 para los otros asientos -->
+							<Grid.ColumnDefinitions>
+								<ColumnDefinition Width="*"/>
+								<ColumnDefinition Width="*"/>
+								<ColumnDefinition Width="30"/>
+								<!-- Espacio entre las dos primeras y las dos últimas columnas -->
+								<ColumnDefinition Width="*"/>
+								<ColumnDefinition Width="*"/>
+							</Grid.ColumnDefinitions>
+
+
+							<Grid.RowDefinitions>
+								<RowDefinition Height="*"/>
+								<RowDefinition Height="*"/>
+								<RowDefinition Height="*"/>
+								<RowDefinition Height="*"/>
+								<RowDefinition Height="*"/>
+								<RowDefinition Height="*"/>
+								<RowDefinition Height="*"/>
+								<RowDefinition Height="*"/>
+								<RowDefinition Height="*"/>
+								<RowDefinition Height="*"/>
+								<RowDefinition Height="*"/>
+								<RowDefinition Height="*"/>
+								<RowDefinition Height="*"/>
+								<RowDefinition Height="*"/>
+							</Grid.RowDefinitions>
+
+
+						</Grid>
+
+
+
+						<Button Click="Button_IngresarPasajeros" Background="#0078D7" Content="Ingresar Pasajero" Foreground="White" Width="160" Height="34" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Margin="10" FontSize="16"></Button>
+						<TextBlock x:Name="MessageAsiento" HorizontalAlignment="Center" TextAlignment="Center" Foreground="Red"/>
+
+						<Button Content="Volver" FontSize="16" Height="30" HorizontalAlignment="Left" Click="Button_Volver32"/>
+					</StackPanel>
+					
+
+					<StackPanel Name ="pag4" Orientation="Vertical"  HorizontalAlignment="Center" IsVisible ="False">
+
+						<TextBlock Text="Ingrese datos del pasajero:" FontSize="20" FontWeight="Bold" Margin="0,0,0,10" HorizontalAlignment="Center" />
+
+						<TextBlock TextAlignment="Center" Text="Nombre" Margin="10" FontSize="16"></TextBlock>
+						<TextBox Name="TextBoxNombre" Width="300" Height="30" BorderBrush="#3498db" Watermark="Ingrese su nombre" FontStyle="Italic" FontSize="16" Background="White"/>
+
+						<TextBlock TextAlignment="Center" Text="Rut" Margin="10" FontSize="16"></TextBlock>
+						<TextBox Name="TextBoxRutCompra" Width="300" Height="30" BorderBrush="#3498db" Watermark="12345678-9" FontStyle="Italic" FontSize="16" Background="White"/>
+
+						<TextBlock TextAlignment="Center" Text="Tipo Pasajero" Margin="10" FontSize="16"></TextBlock>
+						<StackPanel Orientation="Vertical" HorizontalAlignment="Center"  VerticalAlignment="Center" Spacing="0" Margin="10">
+							<StackPanel  Orientation="Horizontal">
+								<RadioButton	Name="normalRadioButton" Content="Normal" GroupName="Tipo" Foreground="Black" FontSize="16"/>
+								<RadioButton	Name="estudianteRadioButton" Content="Estudiante" GroupName="Tipo" Foreground="Black" FontSize="16"/>
+								<RadioButton	Name="adultoMayorRadioButton" Content="Adulto Mayor" GroupName="Tipo" Foreground="Black" FontSize="16"/>
+							</StackPanel>
+						</StackPanel>
+
+						<TextBlock TextAlignment="Center" Text="Telefono" Margin="10" FontSize="16"></TextBlock>
+						<TextBox Name="TextBoxTelefono" Width="300" Height="30" BorderBrush="#3498db" Watermark="9-12345678" FontStyle="Italic" FontSize="16" Background="White"/>
+
+						<TextBlock TextAlignment="Center" Text="Email" Margin="10" FontSize="16"></TextBlock>
+						<TextBox Name="TextBoxEmail" Width="300" Height="30" BorderBrush="#3498db" Watermark="example@gmail.com" FontStyle="Italic" FontSize="16" Background="White"/>
+
+
+						<TextBlock TextAlignment="Center" Text="Método de Pago" Margin="10" FontSize="16"></TextBlock>
+						<ComboBox Name="comboBoxMetodoPago" Width="300" Height="30" BorderBrush="#3498db" Background="White" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center">
+							<ComboBoxItem Content="Efectivo" />
+							<ComboBoxItem Content="Débito" />
+							<ComboBoxItem Content="Crédito" />
+						</ComboBox>
+
+						<Button Click="Button_VerResumenPagar"  Background="#0078D7" Content="Ver Resumen" Foreground="White" Width="160" Height="34"  HorizontalAlignment="Center" HorizontalContentAlignment="Center" Margin="10" FontSize="16"></Button>
+						<Button Content="Volver" HorizontalAlignment="Left" Margin="10" Click="Button_Volver43" Height="30" FontSize="16"/>
+
+						<TextBlock x:Name="MessageText" HorizontalAlignment="Center" TextAlignment="Center" Foreground="Red" />
+
+
+					</StackPanel>
+
+					<StackPanel Name="pag5" IsVisible="False">
+
+						<TextBlock Text="Boleto" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" />
+
+						<TextBlock  Name="txtFechaBoleto" TextAlignment="Left"  Margin="10" FontSize="16"></TextBlock>
+						<StackPanel Orientation="Horizontal">
+							<TextBlock  Name="txtOrigenBoleto" TextAlignment="Left"  Margin="10" FontSize="16"></TextBlock>
+							<TextBlock  Name="txtDestinoBoleto" TextAlignment="Left"  Margin="10" FontSize="16"></TextBlock>
+						</StackPanel>
+						<TextBlock  Name="txtNumeroAsiento" TextAlignment="Left"  Margin="10" FontSize="16"></TextBlock>
+						<TextBlock  Name="txtValorPasaje" TextAlignment="Left"  Margin="10" FontSize="16"></TextBlock>
+
+						<TextBlock Text="Factura" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" />
+
+						<StackPanel Orientation="Horizontal">
+							<TextBlock  Name="txtNombreFactura" TextAlignment="Left"  Margin="10" FontSize="16"></TextBlock>
+							<TextBlock  Name="txtDireccionFactura" TextAlignment="Left"  Margin="10" FontSize="16"></TextBlock>
+						</StackPanel>
+						<TextBlock  Name="txtNombrePasajeroFactura" TextAlignment="Left"  Margin="10" FontSize="16"></TextBlock>
+						<TextBlock  Name="txtRutFactura" TextAlignment="Left"  Margin="10" FontSize="16"></TextBlock>
+						<TextBlock  Name="txtFechaFactura" TextAlignment="Left"  Margin="10" FontSize="16"></TextBlock>
+						<StackPanel Orientation="Horizontal">
+							<TextBlock  Name="txtOrigenFactura" TextAlignment="Left"  Margin="10" FontSize="16"></TextBlock>
+							<TextBlock  Name="txtDestinoFactura" TextAlignment="Left"  Margin="10" FontSize="16"></TextBlock>
+						</StackPanel>
+						<TextBlock  Name="txtNumeroAsientoFactura" TextAlignment="Left"  Margin="10" FontSize="16"></TextBlock>
+						<TextBlock  Name="txtValorPasajeFactura" TextAlignment="Left"  Margin="10" FontSize="16"></TextBlock>
+						<TextBlock  Name="txtIdFactura" TextAlignment="Left"  Margin="10,10,10,0" FontSize="16"></TextBlock>
+						<Button   Background="#0078D7" Content="Imprimir" Foreground="White" Width="180" Height="34" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Margin="5" FontSize="16"></Button>
+
+						<Button Click="Button_Click_2" Background="#0078D7" Content="Comprar otro boleto" Foreground="White" Width="180" Height="34"  HorizontalAlignment="Center" HorizontalContentAlignment="Center" Margin="0" FontSize="16"></Button>
+
+					</StackPanel>
+
+				</StackPanel>
+
+
+			</TabItem>
+
+
+
+			<TabItem Header="Consulta">
+				<StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Spacing="15" >
+
+					<StackPanel Name="pag6" Orientation="Vertical"  HorizontalAlignment="Center">
+						<TextBlock Text="Consultar Pasaje" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" Margin="10" />
+						<TextBox Name="TextBoxRutConsulta" Width="180" Height="34" Watermark="12345678-9" FontStyle="Italic" BorderBrush="#3498db" FontSize="16" Background="White"/>
+
+						<Button  Click="Button_Click_1" Background="#0078D7"  Width="180" Height="34" Content="Consultar" HorizontalAlignment="Center" Foreground="White" HorizontalContentAlignment="Center"  Margin="20" FontSize="16"></Button>
+
+						<StackPanel Name="stackBlocks" Orientation="Vertical">
+
+						</StackPanel>
+
+
+						<StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Spacing="15">
+
+							<Button Click="Button_QuitarBoleto_Click" Background="#0078D7" Content="Modificar" Foreground="White" Width="180" Height="34" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Margin="20" FontSize="16"></Button>
+
+						</StackPanel>
+
+					</StackPanel>
+
+					<StackPanel Name="pag7" Orientation="Vertical"  HorizontalAlignment="Center" IsVisible="False">
+
+
+
+						<TextBlock Text="Modificar Boleto" FontSize="20" FontWeight="Bold" Margin="0,0,0,10" HorizontalAlignment="Center" />
+
+						<TextBlock TextAlignment="Center" Text="Número de Asiento a Quitar" Margin="10" FontSize="16"/>
+						
+						<TextBox Name="TextBoxNumeroAsientoQuitar" Width="300" Height="34" BorderBrush="#3498db" Watermark="Ingrese el número de asiento" FontStyle="Italic" FontSize="16" Background="White"/>
+
+						<TextBlock Name="MessageTexto" FontSize="16" Margin="10"></TextBlock>
+						
+						<Button   Background="#0078D7" Content="Reembolsar" Foreground="White" Width="160" Height="34" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Margin="20" FontSize="16"></Button>
+
+						<Button Click="Button_Modificar_Click"  Background="#0078D7" Content="Quitar Boleto" Foreground="White" Width="160" Height="34"  HorizontalAlignment="Center" HorizontalContentAlignment="Center" Margin="20" FontSize="16"></Button>
+
+						<Button Content="Volver" HorizontalAlignment="Left" FontSize="16" Height="30" Margin="10" Click="Button_Volver76"/>
+
+
+
+
+
+					</StackPanel>
+
+
+				</StackPanel>
+			</TabItem>
+
+			<TabItem Header="Agregar Servicio">
+				<Grid HorizontalAlignment="Center" IsVisible="true" Margin="20"  VerticalAlignment="Center" >
+					<!-- Definimos columnas -->
+					<Grid.ColumnDefinitions>
+						<ColumnDefinition Width="*" />
+						<!-- Columna para Servicio -->
+						<ColumnDefinition Width="50" />
+						<!-- Espacio entre columnas -->
+						<ColumnDefinition Width="*" />
+						<!-- Columna para Tripulantes -->
+					</Grid.ColumnDefinitions>
+
+					<!-- Definimos filas -->
+					<Grid.RowDefinitions>
+						<RowDefinition Height="Auto" />
+						<!-- Títulos -->
+						<RowDefinition Height="*" />
+						<!-- Contenido -->
+						<RowDefinition Height="Auto" />
+						<!-- Botón -->
+						<RowDefinition Height="Auto" />
+						<!-- Error -->
+					</Grid.RowDefinitions>
+
+					<!-- Título servicio -->
+					<TextBlock Text="Servicio" Grid.Row="0" Grid.Column="0" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" Margin="10" />
+
+					<!-- Título tripulantes -->
+					<TextBlock Text="Tripulantes" Grid.Row="0" Grid.Column="2" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" Margin="10"/>
+
+					<!-- Contenido servicio -->
+					<StackPanel Grid.Row="1" Grid.Column="0" Spacing="20" Margin="10">
+						<StackPanel>
+							<TextBlock Text="Ingrese un Origen" FontSize="16" />
+							<ComboBox Name="ingresarOrigen" Width="300" Height="30"  Margin="0,5" BorderBrush="#3498db" Background="White" FontSize="16">
+
+								<ComboBoxItem>Concepcion</ComboBoxItem>
+								<ComboBoxItem>Los Angeles</ComboBoxItem>
+
+							</ComboBox>
+						</StackPanel>
+						<StackPanel>
+							<TextBlock Text="Ingrese un Destino" FontSize="16" />
+							<ComboBox Name="ingresarDestino" Width="300" Height="30" Margin="0,5" BorderBrush="#3498db" Background="White" FontSize="16">
+
+								<ComboBoxItem>Concepcion</ComboBoxItem>
+								<ComboBoxItem>Los Angeles</ComboBoxItem>
+
+							</ComboBox>
+						</StackPanel>
+						<StackPanel>
+							<TextBlock Text="Ingrese una Fecha" FontSize="16" />
+							<CalendarDatePicker Name="ingresarFecha" Margin="0,5" BorderBrush="#3498db" Width="300" Height="30" FontSize="16" Background="White"/>
+						</StackPanel>
+						<StackPanel Orientation="Horizontal" >
+							<StackPanel>
+								<TextBlock Text="Hora" FontSize="16" />
+								<TextBox  Name="ingresarHora" Width="40" Height="30" Margin="0,5" BorderBrush="#3498db" Watermark="00" FontStyle="Italic" FontSize="16" Background="White"/>
+							</StackPanel>
+							<TextBlock Text=" : " FontSize="16" />
+							<StackPanel>
+								<TextBlock Text="Minutos" FontSize="16" />
+								<TextBox Name="ingresarMinutos" Width="40" Height="30" Margin="0,5" BorderBrush="#3498db" Watermark="00" FontStyle="Italic" FontSize="16" Background="White"/>
+							</StackPanel>
+						</StackPanel>
+
+					</StackPanel>
+
+					<!-- Contenido tripulantes -->
+					<StackPanel Grid.Row="1" Grid.Column="2" Spacing="20" Margin="10">
+						<StackPanel>
+							<TextBlock Text="Nombre del chofer" FontSize="16" />
+							<TextBox Name="nombreChofer" Width="300" Height="30" Margin="0,5" BorderBrush="#3498db" Watermark="Ingrese el Nombre" FontStyle="Italic" FontSize="16" Background="White"/>
+						</StackPanel>
+						<StackPanel>
+							<TextBlock Text="Rut del chofer" FontSize="16"/>
+							<TextBox Name="rutChofer" Width="300" Height="30" Margin="0,5" BorderBrush="#3498db" Watermark="12345678-9" FontStyle="Italic" FontSize="16" Background="White"/>
+						</StackPanel>
+						<StackPanel>
+							<TextBlock Text="Nombre auxiliar" FontSize="16"/>
+							<TextBox Name="nombreAuxiliar" Width="300" Height="30" Margin="0,5" BorderBrush="#3498db" Watermark="Ingrese el Nombre" FontStyle="Italic" FontSize="16" Background="White"/>
+						</StackPanel>
+						<StackPanel>
+							<TextBlock Text="Rut auxiliar" FontSize="16" />
+							<TextBox Name="rutAuxiliar" Width="300" Height="30" Margin="0,5" BorderBrush="#3498db" Watermark="12345678-9" FontStyle="Italic" FontSize="16" Background="White"/>
+						</StackPanel>
+					</StackPanel>
+
+					<!-- Botón para ingresar el servicio -->
+					<Button Content="Ingresar el servicio" Name="ingresarServicio"  Grid.Row="2" Grid.ColumnSpan="3" Margin="20" Background="#0078D7"  HorizontalContentAlignment="Center" Width="160" Height="34" Foreground="White" HorizontalAlignment="Center" FontSize="16" />
+					<TextBlock x:Name="MessageTextBlockError" HorizontalAlignment="Center" TextAlignment="Center" Foreground="Red" Grid.Row="3" Grid.ColumnSpan="3"/>
+				</Grid>
+			</TabItem>
+
+
+
+
+
+		</TabControl>
+	
+	</Grid>
+	<!--</Viewbox>-->
+</Window>

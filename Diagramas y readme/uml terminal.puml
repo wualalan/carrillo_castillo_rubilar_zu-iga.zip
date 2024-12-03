@@ -1,0 +1,212 @@
+@startuml Proyecto
+package Terminal
+{
+    package ProcesoCompra
+    {
+        
+        enum TipoDeViaje
+        {
+            SoloIda,
+            IdaVuelta
+        }
+
+        enum TipoPago
+        {
+            Efectivo,
+            Débito,
+            Crédito
+        }
+
+        interface iCompra
+        {
+            + Fecha : DateTime
+            + String : Ubicacion
+            + Servicio : Servicio
+        }
+   
+        class Compra
+        {
+            - fecha : DateTime
+            - string : Ubicacion
+            - servicio : Servicio
+        }
+        
+       interface iServicio
+        {
+            + Id : int
+            + Fecha : DateTime
+            + Origen : string
+            + Destino : string
+            + Bus : Bus
+ 
+        }
+
+        class Servicio
+        {
+            - id : int
+            - fecha : DateTime
+            - origen : string
+            - destino : string
+            - bus : Bus
+        }
+
+        interface iBoleto
+        {
+            + NroBoleto: int
+            + Viaje : TipoDeViaje
+            + Origen : string
+            + Destino : string
+            + Fecha : DateTime
+            + Rebaja : bool
+            + NumeroAsiento : int
+
+        }
+        
+        class Boleto
+        {
+            - nroBoleto: int
+            - viaje : TipoDeViaje
+            - origen : string
+            - destino : string
+            - fecha : DateTime
+            - rebaja : bool
+            - numeroAsiento : int
+
+            + verificarRebaja()
+        }
+
+        interface iFactura
+        {
+            + NroFactura: int
+            + Iva: int
+        }
+
+        class Factura
+        {
+            - nroFactura: int
+            - iva: int
+        }
+
+        class Carrito
+        {
+            -List<Boleto> boletos()
+            -precioTotal : int
+            +List<Boleto> boletos()
+            +precioTotal : int
+            +AgregarBoleto : void
+            +QuitarBoleto : void 
+            +ActualizarPrecioTotal : void
+            +AplicarDescuentos : void
+        }
+
+    }
+    package Buses
+    {
+        class Horario
+        {
+            - horaSalida : DateTime
+            - horaLlegada : Datetime
+            + HoraSalida : DateTime
+            + HoraLlegada : Datetime
+        }
+
+        class Bus
+        {
+            - id : int
+            - asientos : List<Asiento>
+        }
+
+        class Asiento
+        {
+            - estado : bool
+            - numero : int
+            - pasajero : Pasajero
+            + Estado : bool
+            + Numero : int
+            + pasajero : Pasajero
+            + Asiento()
+
+        }
+    }
+
+    class Persona
+    {
+        - rut : string
+        - nombre : string
+        - telefono : int
+        + Rut : string
+        + Nombre : string
+        + Telefono : int
+    }
+
+    package Personal
+    {
+        class Chofer
+        {
+            - horario : DateTime
+            + Horario : DateTime
+        }
+
+        class Auxiliar
+        {
+            - horario : DateTime
+            + Horario : DateTime
+        }
+    }
+
+   package Pasajeros
+   {
+        enum TipoPasajero
+        {
+            Normal,
+            Estudiante,
+            AdultoMayor
+        }
+
+        class Pasajero
+        { 
+            - email : string
+            - tipoPasajero : TipoPasajero
+            + Email : string
+            + TipoPasajero : TipoPasajero
+        }
+   }
+
+    
+}
+
+Compra *-- Servicio
+
+Servicio - Bus
+
+Bus "1" - "1" Chofer
+
+Bus "1" - "1" Auxiliar
+
+Bus *-- Asiento
+
+Bus *--  Horario
+
+Compra *--- Boleto 
+
+iBoleto <|.. Boleto
+
+iCompra <|.. Compra
+
+iFactura <|.. Factura
+
+iServicio <|.. Servicio
+
+Compra *--- Factura 
+
+Asiento o-- Pasajero
+
+Persona <|--- Chofer
+
+Persona <|--- Auxiliar
+
+Persona <|--- Pasajero
+
+Carrito <|--- Pasajero
+
+@enduml

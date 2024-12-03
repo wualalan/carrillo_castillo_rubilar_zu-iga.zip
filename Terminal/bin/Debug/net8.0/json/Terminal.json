@@ -1,0 +1,2489 @@
+[
+  {
+    "Id": 1,
+    "Fecha": "2024-11-29T12:30:00",
+    "Origen": "Concepcion",
+    "Destino": "Los Angeles",
+    "Bus": {
+      "Id": 1,
+      "Asientos": [
+        {
+          "Numero": 1,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 2,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 3,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 4,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 5,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 6,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 7,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 8,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 9,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 10,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 11,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 12,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 13,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 14,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 15,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 16,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 17,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 18,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 19,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 20,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 21,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 22,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 23,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 24,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 25,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 26,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 27,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 28,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 29,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 30,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 31,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 32,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 33,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 34,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 35,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 36,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 37,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 38,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 39,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 40,
+          "Estado": false,
+          "Pasajero": null
+        }
+      ],
+      "Chofer": {
+        "Horario": "0001-01-01T00:00:00",
+        "Bus": null,
+        "RUT": "14.356.789-3",
+        "Nombre": "Juan Carlos Alarc\u00F3n Rodr\u00EDguez",
+        "Telefono": null
+      },
+      "Auxiliar": {
+        "Horario": "0001-01-01T00:00:00",
+        "Bus": null,
+        "RUT": "18.765.432-1",
+        "Nombre": "Mar\u00EDa Fernanda Castro L\u00F3pez",
+        "Telefono": null
+      }
+    }
+  },
+  {
+    "Id": 2,
+    "Fecha": "2024-11-29T13:30:00",
+    "Origen": "Concepcion",
+    "Destino": "Los Angeles",
+    "Bus": {
+      "Id": 2,
+      "Asientos": [
+        {
+          "Numero": 1,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 2,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 3,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 4,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 5,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 6,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 7,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 8,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 9,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 10,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 11,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 12,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 13,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 14,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 15,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 16,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 17,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 18,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 19,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 20,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 21,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 22,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 23,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 24,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 25,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 26,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 27,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 28,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 29,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 30,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 31,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 32,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 33,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 34,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 35,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 36,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 37,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 38,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 39,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 40,
+          "Estado": false,
+          "Pasajero": null
+        }
+      ],
+      "Chofer": {
+        "Horario": "0001-01-01T00:00:00",
+        "Bus": null,
+        "RUT": "11.234.567-8",
+        "Nombre": "Ricardo Andr\u00E9s Villarroel Guzm\u00E1n",
+        "Telefono": null
+      },
+      "Auxiliar": {
+        "Horario": "0001-01-01T00:00:00",
+        "Bus": null,
+        "RUT": "17.456.789-4",
+        "Nombre": " Sof\u00EDa Beatriz Espinoza Rojas",
+        "Telefono": null
+      }
+    }
+  },
+  {
+    "Id": 3,
+    "Fecha": "2024-11-29T14:30:00",
+    "Origen": "Concepcion",
+    "Destino": "Los Angeles",
+    "Bus": {
+      "Id": 3,
+      "Asientos": [
+        {
+          "Numero": 1,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 2,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 3,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 4,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 5,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 6,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 7,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 8,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 9,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 10,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 11,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 12,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 13,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 14,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 15,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 16,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 17,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 18,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 19,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 20,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 21,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 22,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 23,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 24,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 25,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 26,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 27,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 28,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 29,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 30,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 31,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 32,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 33,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 34,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 35,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 36,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 37,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 38,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 39,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 40,
+          "Estado": false,
+          "Pasajero": null
+        }
+      ],
+      "Chofer": {
+        "Horario": "0001-01-01T00:00:00",
+        "Bus": null,
+        "RUT": "13.789.123-6",
+        "Nombre": "Luis Alberto Morales Salazar",
+        "Telefono": null
+      },
+      "Auxiliar": {
+        "Horario": "0001-01-01T00:00:00",
+        "Bus": null,
+        "RUT": "19.876.543-2",
+        "Nombre": " Valentina Carolina D\u00EDaz Herrera",
+        "Telefono": null
+      }
+    }
+  },
+  {
+    "Id": 4,
+    "Fecha": "2024-11-29T15:30:00",
+    "Origen": "Concepcion",
+    "Destino": "Los Angeles",
+    "Bus": {
+      "Id": 4,
+      "Asientos": [
+        {
+          "Numero": 1,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 2,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 3,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 4,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 5,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 6,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 7,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 8,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 9,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 10,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 11,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 12,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 13,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 14,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 15,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 16,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 17,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 18,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 19,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 20,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 21,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 22,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 23,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 24,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 25,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 26,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 27,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 28,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 29,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 30,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 31,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 32,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 33,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 34,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 35,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 36,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 37,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 38,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 39,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 40,
+          "Estado": false,
+          "Pasajero": null
+        }
+      ],
+      "Chofer": {
+        "Horario": "0001-01-01T00:00:00",
+        "Bus": null,
+        "RUT": "15.654.321-7",
+        "Nombre": "Francisco Javier Orellana Fuentes",
+        "Telefono": null
+      },
+      "Auxiliar": {
+        "Horario": "0001-01-01T00:00:00",
+        "Bus": null,
+        "RUT": "19.876.543-2",
+        "Nombre": "Valentina Carolina D\u00EDaz Herrera",
+        "Telefono": null
+      }
+    }
+  },
+  {
+    "Id": 5,
+    "Fecha": "2024-10-28T13:00:00",
+    "Origen": "Concepcion",
+    "Destino": "Los Angeles",
+    "Bus": {
+      "Id": 5,
+      "Asientos": [
+        {
+          "Numero": 1,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 2,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 3,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 4,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 5,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 6,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 7,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 8,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 9,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 10,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 11,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 12,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 13,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 14,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 15,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 16,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 17,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 18,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 19,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 20,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 21,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 22,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 23,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 24,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 25,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 26,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 27,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 28,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 29,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 30,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 31,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 32,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 33,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 34,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 35,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 36,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 37,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 38,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 39,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 40,
+          "Estado": false,
+          "Pasajero": null
+        }
+      ],
+      "Chofer": {
+        "Horario": "0001-01-01T00:00:00",
+        "Bus": null,
+        "RUT": "12345678-9",
+        "Nombre": "Matias",
+        "Telefono": null
+      },
+      "Auxiliar": {
+        "Horario": "0001-01-01T00:00:00",
+        "Bus": null,
+        "RUT": "98765432-1",
+        "Nombre": "Alan",
+        "Telefono": null
+      }
+    }
+  },
+  {
+    "Id": 6,
+    "Fecha": "2024-10-28T13:00:00",
+    "Origen": "Concepcion",
+    "Destino": "Los Angeles",
+    "Bus": {
+      "Id": 6,
+      "Asientos": [
+        {
+          "Numero": 1,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 2,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 3,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 4,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 5,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 6,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 7,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 8,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 9,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 10,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 11,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 12,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 13,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 14,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 15,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 16,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 17,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 18,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 19,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 20,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 21,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 22,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 23,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 24,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 25,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 26,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 27,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 28,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 29,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 30,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 31,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 32,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 33,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 34,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 35,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 36,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 37,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 38,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 39,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 40,
+          "Estado": false,
+          "Pasajero": null
+        }
+      ],
+      "Chofer": {
+        "Horario": "0001-01-01T00:00:00",
+        "Bus": null,
+        "RUT": "12345678-9",
+        "Nombre": "Matias",
+        "Telefono": null
+      },
+      "Auxiliar": {
+        "Horario": "0001-01-01T00:00:00",
+        "Bus": null,
+        "RUT": "31265498-7",
+        "Nombre": "Alan",
+        "Telefono": null
+      }
+    }
+  },
+  {
+    "Id": 7,
+    "Fecha": "2024-11-28T13:00:00",
+    "Origen": "Concepcion",
+    "Destino": "Los Angeles",
+    "Bus": {
+      "Id": 7,
+      "Asientos": [
+        {
+          "Numero": 1,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 2,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 3,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 4,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 5,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 6,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 7,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 8,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 9,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 10,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 11,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 12,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 13,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 14,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 15,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 16,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 17,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 18,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 19,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 20,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 21,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 22,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 23,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 24,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 25,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 26,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 27,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 28,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 29,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 30,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 31,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 32,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 33,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 34,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 35,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 36,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 37,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 38,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 39,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 40,
+          "Estado": false,
+          "Pasajero": null
+        }
+      ],
+      "Chofer": {
+        "Horario": "0001-01-01T00:00:00",
+        "Bus": null,
+        "RUT": "12345678-9",
+        "Nombre": "Matias",
+        "Telefono": null
+      },
+      "Auxiliar": {
+        "Horario": "0001-01-01T00:00:00",
+        "Bus": null,
+        "RUT": "32165498-7",
+        "Nombre": "Alan",
+        "Telefono": null
+      }
+    }
+  },
+  {
+    "Id": 8,
+    "Fecha": "2024-11-29T17:30:00",
+    "Origen": "Los Angeles",
+    "Destino": "Concepcion",
+    "Bus": {
+      "Id": 8,
+      "Asientos": [
+        {
+          "Numero": 1,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 2,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 3,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 4,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 5,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 6,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 7,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 8,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 9,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 10,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 11,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 12,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 13,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 14,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 15,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 16,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 17,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 18,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 19,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 20,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 21,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 22,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 23,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 24,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 25,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 26,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 27,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 28,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 29,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 30,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 31,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 32,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 33,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 34,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 35,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 36,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 37,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 38,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 39,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 40,
+          "Estado": false,
+          "Pasajero": null
+        }
+      ],
+      "Chofer": {
+        "Horario": "0001-01-01T00:00:00",
+        "Bus": null,
+        "RUT": "13311908-6",
+        "Nombre": "alanbrito",
+        "Telefono": null
+      },
+      "Auxiliar": {
+        "Horario": "0001-01-01T00:00:00",
+        "Bus": null,
+        "RUT": "23072004-3",
+        "Nombre": "jorge rubilar",
+        "Telefono": null
+      }
+    }
+  },
+  {
+    "Id": 9,
+    "Fecha": "2024-12-01T20:00:00",
+    "Origen": "Concepcion",
+    "Destino": "Los Angeles",
+    "Bus": {
+      "Id": 9,
+      "Asientos": [
+        {
+          "Numero": 1,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 2,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 3,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 4,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 5,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 6,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 7,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 8,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 9,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 10,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 11,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 12,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 13,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 14,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 15,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 16,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 17,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 18,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 19,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 20,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 21,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 22,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 23,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 24,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 25,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 26,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 27,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 28,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 29,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 30,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 31,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 32,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 33,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 34,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 35,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 36,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 37,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 38,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 39,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 40,
+          "Estado": false,
+          "Pasajero": null
+        }
+      ],
+      "Chofer": {
+        "Horario": "0001-01-01T00:00:00",
+        "Bus": null,
+        "RUT": "21348907-0",
+        "Nombre": "Alan Brito",
+        "Telefono": null
+      },
+      "Auxiliar": {
+        "Horario": "0001-01-01T00:00:00",
+        "Bus": null,
+        "RUT": "13311908-6",
+        "Nombre": "elsa pato",
+        "Telefono": null
+      }
+    }
+  },
+  {
+    "Id": 10,
+    "Fecha": "2024-12-02T12:22:00",
+    "Origen": "Concepcion",
+    "Destino": "Los Angeles",
+    "Bus": {
+      "Id": 10,
+      "Asientos": [
+        {
+          "Numero": 1,
+          "Estado": true,
+          "Pasajero": {
+            "Email": "jrubilar@ing.ucsc.cl",
+            "TipoPasajero": 0,
+            "RUT": "21339333-2",
+            "Nombre": "Jorge",
+            "Telefono": "978717077"
+          }
+        },
+        {
+          "Numero": 2,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 3,
+          "Estado": true,
+          "Pasajero": {
+            "Email": "mtromero@gmail.com",
+            "TipoPasajero": 0,
+            "RUT": "11406175-1",
+            "Nombre": "Maria",
+            "Telefono": "978717077"
+          }
+        },
+        {
+          "Numero": 4,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 5,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 6,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 7,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 8,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 9,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 10,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 11,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 12,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 13,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 14,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 15,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 16,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 17,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 18,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 19,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 20,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 21,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 22,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 23,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 24,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 25,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 26,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 27,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 28,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 29,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 30,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 31,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 32,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 33,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 34,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 35,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 36,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 37,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 38,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 39,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 40,
+          "Estado": false,
+          "Pasajero": null
+        }
+      ],
+      "Chofer": {
+        "Horario": "0001-01-01T00:00:00",
+        "Bus": null,
+        "RUT": "21306932-2",
+        "Nombre": "sdasda",
+        "Telefono": null
+      },
+      "Auxiliar": {
+        "Horario": "0001-01-01T00:00:00",
+        "Bus": null,
+        "RUT": "21306932-2",
+        "Nombre": "sdadaas",
+        "Telefono": null
+      }
+    }
+  },
+  {
+    "Id": 11,
+    "Fecha": "2024-12-03T13:00:00",
+    "Origen": "Concepcion",
+    "Destino": "Los Angeles",
+    "Bus": {
+      "Id": 11,
+      "Asientos": [
+        {
+          "Numero": 1,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 2,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 3,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 4,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 5,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 6,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 7,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 8,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 9,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 10,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 11,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 12,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 13,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 14,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 15,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 16,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 17,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 18,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 19,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 20,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 21,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 22,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 23,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 24,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 25,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 26,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 27,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 28,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 29,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 30,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 31,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 32,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 33,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 34,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 35,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 36,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 37,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 38,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 39,
+          "Estado": false,
+          "Pasajero": null
+        },
+        {
+          "Numero": 40,
+          "Estado": false,
+          "Pasajero": null
+        }
+      ],
+      "Chofer": {
+        "Horario": "0001-01-01T00:00:00",
+        "Bus": null,
+        "RUT": "21339333-2",
+        "Nombre": "Juan",
+        "Telefono": null
+      },
+      "Auxiliar": {
+        "Horario": "0001-01-01T00:00:00",
+        "Bus": null,
+        "RUT": "11406175-1",
+        "Nombre": "Jorge",
+        "Telefono": null
+      }
+    }
+  }
+]

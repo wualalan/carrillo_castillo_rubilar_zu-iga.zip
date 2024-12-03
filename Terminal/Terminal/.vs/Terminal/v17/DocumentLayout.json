@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wuala\\Downloads\\Terminal\\Terminal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|c:\\users\\wuala\\downloads\\terminal\\terminal\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|solutionrelative:mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|c:\\users\\wuala\\downloads\\terminal\\terminal\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|solutionrelative:mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|c:\\users\\wuala\\downloads\\terminal\\terminal\\terminal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|solutionrelative:terminal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|c:\\users\\wuala\\downloads\\terminal\\terminal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|c:\\users\\wuala\\downloads\\terminal\\terminal\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|solutionrelative:app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|c:\\users\\wuala\\downloads\\terminal\\terminal\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{827B996D-1645-4EBE-8C38-6E987D23C841}|Terminal.csproj|solutionrelative:app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 380,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wuala\\Downloads\\Terminal\\Terminal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\wuala\\Downloads\\Terminal\\Terminal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:09:16.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\wuala\\Downloads\\Terminal\\Terminal\\App.axaml.cs",
+              "RelativeDocumentMoniker": "App.axaml.cs",
+              "ToolTip": "C:\\Users\\wuala\\Downloads\\Terminal\\Terminal\\App.axaml.cs",
+              "RelativeToolTip": "App.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:08:58.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\wuala\\Downloads\\Terminal\\Terminal\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "MainWindow.axaml",
+              "ToolTip": "MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "OverriddenGroupName": "",
+              "OverriddenToolTip": "MainWindow.axaml",
+              "WhenOpened": "2024-11-20T20:18:39.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.axaml",
+              "DocumentMoniker": "C:\\Users\\wuala\\Downloads\\Terminal\\Terminal\\App.axaml",
+              "RelativeDocumentMoniker": "App.axaml",
+              "ToolTip": "C:\\Users\\wuala\\Downloads\\Terminal\\Terminal\\App.axaml",
+              "RelativeToolTip": "App.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-21T13:08:57.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\wuala\\Downloads\\Terminal\\Terminal\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\wuala\\Downloads\\Terminal\\Terminal\\MainWindow.axaml.cs",
+              "RelativeToolTip": "MainWindow.axaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:18:38.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Terminal.csproj",
+              "DocumentMoniker": "C:\\Users\\wuala\\Downloads\\Terminal\\Terminal\\Terminal.csproj",
+              "RelativeDocumentMoniker": "Terminal.csproj",
+              "ToolTip": "C:\\Users\\wuala\\Downloads\\Terminal\\Terminal\\Terminal.csproj",
+              "RelativeToolTip": "Terminal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T20:26:01.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

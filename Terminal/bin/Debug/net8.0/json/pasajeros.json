@@ -1,0 +1,16 @@
+[
+    {
+        "Rut":"21348907-0",
+        "Nombre": "Bastian Carrillo",
+        "Telefono" :"962407952",
+        "Ëmail": "bcarrillor@ing.ucsc.cl",
+        "tipo": 1
+    },
+    {
+        "Rut":"21339333-2",
+        "Nombre": "Jorge Rubilar",
+        "Telefono" :"962407952",
+        "Ëmail": "jorge@ing.ucsc.cl",
+        "tipo": 1
+    }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "NroBoleto": 5,
+    "Rebaja": false,
+    "Origen": "Concepcion",
+    "Destino": "Los Angeles",
+    "Fecha": "2024-12-01T20:00:00",
+    "NumeroAsiento": 13,
+    "MetodoPago": 0,
+    "Precio": 0
+  },
+  {
+    "NroBoleto": 5,
+    "Rebaja": false,
+    "Origen": "Concepcion",
+    "Destino": "Los Angeles",
+    "Fecha": "2024-12-01T20:00:00",
+    "NumeroAsiento": 13,
+    "MetodoPago": 0,
+    "Precio": 0
+  },
+  {
+    "NroBoleto": 10,
+    "Rebaja": false,
+    "Origen": "Concepcion",
+    "Destino": "Los Angeles",
+    "Fecha": "2024-12-01T20:00:00",
+    "NumeroAsiento": 15,
+    "MetodoPago": 0,
+    "Precio": 0
+  },
+  {
+    "NroBoleto": 13,
+    "Rebaja": false,
+    "Origen": "Concepcion",
+    "Destino": "Los Angeles",
+    "Fecha": "2024-12-02T12:22:00",
+    "NumeroAsiento": 3,
+    "MetodoPago": 0,
+    "Precio": 0
+  },
+  {
+    "NroBoleto": 14,
+    "Rebaja": false,
+    "Origen": "Concepcion",
+    "Destino": "Los Angeles",
+    "Fecha": "2024-12-02T12:22:00",
+    "NumeroAsiento": 1,
+    "MetodoPago": 0,
+    "Precio": 0
+  }
+]
